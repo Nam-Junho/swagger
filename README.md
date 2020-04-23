@@ -27,3 +27,7 @@
 
 ### 접속 경로
 - http://localhost:8080/swagger-ui.html
+
+### DB 설치
+- Docker를 통해 Mysql 5.7.29 버전 설치.
+- script 아래 database, user, table 순으로 스크립트 실행.
