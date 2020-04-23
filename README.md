@@ -24,3 +24,6 @@
 - Swagger 2.9.2
 - Mysql 5.7.29
 - Spring Data JPA
+
+### 접속 경로
+- http://localhost:8080/swagger-ui.html
