@@ -11,8 +11,8 @@ public class MemberController {
 		return "index";
 	}
 
-	@RequestMapping("/view/member")
+	@RequestMapping("/api")
 	public String viewMember() {
-		return "Member.html View!";
+		return "redirect:/swagger-ui.html";
 	}
 }

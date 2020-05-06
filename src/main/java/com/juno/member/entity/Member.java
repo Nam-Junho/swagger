@@ -21,6 +21,9 @@ public class Member {
 	@Column(length = 20)
 	private String loginId;
 
+	@Column(length = 20)
+	private String loginPw;
+
 	@Column(length = 50)
 	private String name;
 
